@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-06T06:04:06.772Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fPY6igPoP3M4BHPTjWSN" version="20.7.4" type="github">
+<mxfile modified="2023-01-06T06:06:31.640Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BgmM6WZ6AtgVCxmrhuHQ" version="20.7.4" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="811" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="150" y="244" width="580" height="366" as="geometry" />
         </mxCell>
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-5" value="" style="swimlane;startSize=0;fillColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="410" height="300" as="geometry" />
+          <mxGeometry x="270" y="300" width="432.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-6" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="F0hT5rkChMrB-3Tgyuh4-5">
           <mxGeometry x="180" y="30" width="200" height="200" as="geometry">
@@ -27,8 +27,8 @@
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-18" value="App Service&#xa;Web App" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;dashPattern=1 1;fontSize=8;" vertex="1" parent="F0hT5rkChMrB-3Tgyuh4-6">
           <mxGeometry x="77.5" y="64" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F0hT5rkChMrB-3Tgyuh4-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="640" y="270" width="68" height="64" as="geometry" />
+        <mxCell id="F0hT5rkChMrB-3Tgyuh4-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="F0hT5rkChMrB-3Tgyuh4-5">
+          <mxGeometry x="390" y="-20" width="42.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="43.75" height="40" as="geometry" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-16" value="Resource Group" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;dashPattern=1 1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="634" y="244" width="80" height="26" as="geometry" />
+          <mxGeometry x="640" y="250" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="F0hT5rkChMrB-3Tgyuh4-19" value="Azure Active Directory" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;dashPattern=1 1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="181.87" y="334" width="80" height="26" as="geometry" />
